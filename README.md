@@ -96,3 +96,7 @@ sanit@iiitg.ac.in (Customer)
 - Github : [@shwetabh06](https://github.com/Shwetabh06)
 - Linkedin : [@shwetabhpatel](https://www.linkedin.com/in/shwetabh-patel-8410121b2/)
 - Email : [shwetabh.patel23@gmail.com](mailto:shwetabh.patel23@gmail.com)
+
+Other Contributors:
+Sangaja Patel
+Utkarsh
