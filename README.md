@@ -97,6 +97,8 @@ sanit@iiitg.ac.in (Customer)
 - Linkedin : [@shwetabhpatel](https://www.linkedin.com/in/shwetabh-patel-8410121b2/)
 - Email : [shwetabh.patel23@gmail.com](mailto:shwetabh.patel23@gmail.com)
 
-Other Contributors:
+### Other Contributors:
+
 Sangaja Patel
+
 Utkarsh
