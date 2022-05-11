@@ -1,6 +1,6 @@
 # MediCure eCommerce Platform
 
-> eCommerce platform for medicines built with the MERN stack & Redux.
+> eCommerce platform for different medicines built with the MERN stack & Redux.
 
 ## Features
 
