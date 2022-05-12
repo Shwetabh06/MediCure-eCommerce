@@ -15,7 +15,7 @@
 - Mark orders as delivered option
 - Checkout process (shipping, payment method, etc)
 - PayPal / Debit card integration
-- Database seeder (products & users)
+- Database seeder (products & users).
 
 ## Usage
 
